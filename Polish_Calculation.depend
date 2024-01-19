@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1702051573 source:c:\users\izzet\desktop\programlamalar\polish_calculation\main.cpp
+	<iostream>
+	<string>
+	"tree.hpp"
+	"Token.hpp"
+
+1701889164 c:\users\izzet\desktop\programlamalar\polish_calculation\tree.h
+	"Token.hpp"
+
+1702052427 c:\users\izzet\desktop\programlamalar\polish_calculation\token.hpp
+
+1702052465 c:\users\izzet\desktop\programlamalar\polish_calculation\tree.hpp
+	"Token.hpp"
+
+1702052573 source:c:\users\izzet\desktop\4-1\441\hmw\hw2\ee441_pa2_2443836\polish_calculation\main.cpp
+	<iostream>
+	<string>
+	"tree.hpp"
+	"Token.hpp"
+
+1702052465 c:\users\izzet\desktop\4-1\441\hmw\hw2\ee441_pa2_2443836\polish_calculation\tree.hpp
+	"Token.hpp"
+
+1702052427 c:\users\izzet\desktop\4-1\441\hmw\hw2\ee441_pa2_2443836\polish_calculation\token.hpp
+
